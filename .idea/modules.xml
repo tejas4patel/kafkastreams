@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kafkastreamdemo.iml" filepath="$PROJECT_DIR$/.idea/modules/kafkastreamdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kafkastreamsdemo.iml" filepath="$PROJECT_DIR$/.idea/modules/kafkastreamsdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kafkastreamsdemo-build.iml" filepath="$PROJECT_DIR$/.idea/modules/kafkastreamsdemo-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/twitterstream-build.iml" filepath="$PROJECT_DIR$/.idea/modules/twitterstream-build.iml" />
+    </modules>
+  </component>
+</project>
